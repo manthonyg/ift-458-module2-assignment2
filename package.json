@@ -1,0 +1,11 @@
+{
+  "name": "module2-assignment2",
+  "version": "1.0.0",
+  "description": "IFT 458",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Grandori",
+  "license": "ISC"
+}
